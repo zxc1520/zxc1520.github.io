@@ -2,9 +2,16 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#content {
+#header {
 
     font-size: 60px;
+    margin-left: 50px;
+
+}
+
+#content {
+
+    font-size: 25px;
     margin-left: 50px;
 
 }
